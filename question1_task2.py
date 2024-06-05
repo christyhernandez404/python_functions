@@ -75,5 +75,4 @@ def calculator():
         print("Invalid data entry. Try again.")
 
 
-if __name__ == "__main__":
-    calculator()
+calculator()
